@@ -11,4 +11,4 @@ To run this project do the following:
 
 In this project the Gender/Goldin's devaluation theory is tested with German Economic Sector Panel Data from 2007 to 2020.
 
-This projected was created for a term paper at University of Duisburg-Essen to insure scientific transparency criteria.
+This projected was created for a term paper at University of Duisburg-Essen to ensure scientific transparency criteria.
