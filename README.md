@@ -1,4 +1,10 @@
 # GenderDevaluation
+
+In this project the Gender/Goldin's devaluation theory is tested with German Economic Sector Panel Data from 2007 to 2020.
+
+This projected was created for a term paper at University of Duisburg-Essen to ensure scientific transparency criteria.
+
+
 To run this project do the following:
 
 1. create a parent folder (name does not matter)
@@ -9,6 +15,3 @@ To run this project do the following:
 6. follow the instructions in the R script and run the code
 7. check the output folder for regression tables in word format
 
-In this project the Gender/Goldin's devaluation theory is tested with German Economic Sector Panel Data from 2007 to 2020.
-
-This projected was created for a term paper at University of Duisburg-Essen to ensure scientific transparency criteria.
