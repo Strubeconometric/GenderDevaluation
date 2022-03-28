@@ -8,7 +8,7 @@ This projected was created for a term paper at University of Duisburg-Essen to e
 To run this project do the following:
 
 1. create a parent folder (name does not matter)
-2. download all content into this folder
+2. download all content into this folder (click on Code -> Download as Zip)
 3. create two subfolders inside the parent folder: "output" and "data_tidy"
 4. move all csv.files into the data_tidy folder
 5. open the R file and make sure that the working directory/here/project file is located inside the parent folder
